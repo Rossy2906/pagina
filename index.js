@@ -12,7 +12,7 @@ document.querySelector('#search').onclick=() =>{
 }
 
 
-var swiper = new Swiper(". product-row", {
+var swiper = new Swiper(".product-row", {
     spaceBetween: 30,
     centeredSlides:true,
     autoplay:{
