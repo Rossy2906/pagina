@@ -101,6 +101,7 @@ html::-webkit-scrollbar-thumb{
     display: none;
 }
 
+
 .home{
     min-height: 100vh;
     display: flex;
@@ -151,7 +152,6 @@ section{
     margin-bottom: 3rem;
     color: var(--black);
 }
-
 .product .row{
     margin-bottom: 4rem;
     display: flex;
